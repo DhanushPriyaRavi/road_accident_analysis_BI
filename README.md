@@ -6,7 +6,7 @@ Develop a Road Accident Dashboard for 2021 and 2022. Highlight primary KPIs and 
 REPORT ANALYSIS
 Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements-
 
-Primary KPI - Total Casualties and Total Accident values for Current Year and YoY growth
+* Primary KPI - Total Casualties and Total Accident values for Current Year and YoY growth
 
 * Primary KPI's - Total Casualties by Accident Severity for Current Year and YoY growth
 
